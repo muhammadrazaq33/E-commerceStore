@@ -1,5 +1,7 @@
+import React from "react";
+
 function App() {
-  return <div>Hello g</div>;
+  return <div className="text-[black]"> hello g </div>;
 }
 
 export default App;
