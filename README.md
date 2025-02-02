@@ -49,7 +49,7 @@ Follow these steps to run the project locally:
    ```
 
 ## 📸 Screenshots
-(Add relevant screenshots here to showcase your application.)
+![main_log](image_1.png)
 
 ## 🚀 Deployment
 If deploying on **Vercel** or **Netlify**, follow their official guides for React applications.
